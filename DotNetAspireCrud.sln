@@ -2,13 +2,13 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.12.35527.113 d17.12
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireApp1.AppHost", "AspireApp1.AppHost\AspireApp1.AppHost.csproj", "{F9394C80-4F4B-48BA-A7B9-4F78BE3FECBA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetAspireCrud", "DotNetAspireCrud.AppHost\DotNetAspireCrud.csproj", "{F9394C80-4F4B-48BA-A7B9-4F78BE3FECBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireApp1.ServiceDefaults", "AspireApp1.ServiceDefaults\AspireApp1.ServiceDefaults.csproj", "{67B7DB56-5837-46D5-910D-2BE321AACFC7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetAspireCrud.ServiceDefaults", "DotNetAspireCrud.ServiceDefaults\DotNetAspireCrud.ServiceDefaults.csproj", "{67B7DB56-5837-46D5-910D-2BE321AACFC7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireApp1.ApiService", "AspireApp1.ApiService\AspireApp1.ApiService.csproj", "{D4228FDA-6001-43FC-A27E-9F03FC6AD1E2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetAspireCrud.ApiService", "DotNetAspireCrud.ApiService\DotNetAspireCrud.ApiService.csproj", "{D4228FDA-6001-43FC-A27E-9F03FC6AD1E2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspireApp1.Web", "AspireApp1.Web\AspireApp1.Web.csproj", "{E1FADACF-C6A8-4286-A6DC-F4087CB5185C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DotNetAspireCrud.Web", "DotNetAspireCrud.Web\DotNetAspireCrud.Web.csproj", "{E1FADACF-C6A8-4286-A6DC-F4087CB5185C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
